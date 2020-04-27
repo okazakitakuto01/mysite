@@ -1,0 +1,29 @@
+p {
+    font-size: 14px;
+    color: skyblue;
+    text-align: center;
+    letter-spacing: 0.35em;
+    font-weight: 100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    
+}
+
+h1 {
+    font-size: 50pt;
+    color: skyblue;
+    text-align: center;
+    font-style: initial;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 0.1em;
+    font-weight: 100;
+}
+
+h2 {
+    color: skyblue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 200;
+    font-size: 20pt;
+}
+
