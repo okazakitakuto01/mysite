@@ -9,7 +9,7 @@ p {
     
 }
 
-h1 {
+.fade {
     font-size: 50pt;
     color: skyblue;
     text-align: center;
@@ -17,6 +17,7 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     letter-spacing: 0.1em;
     font-weight: 100;
+    
 }
 
 h2 {
@@ -26,4 +27,43 @@ h2 {
     font-weight: 200;
     font-size: 20pt;
 }
+button {
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 500px;
+    left: 900px;
+    background-color:snow;
+    color: skyblue;
+
+}
+#twitter {
+    position: absolute;
+    top: 900px;
+    left: 900px; 
+}
+#instagram {
+    position: absolute;
+    top: 900px;
+    left: 870px;
+
+}
+.contact {
+    position: absolute;
+    top: 900px;
+    left: 750px;
+    
+}
+.download {
+    position: absolute;
+    top: 900px;
+    left: 630px;
+    
+}
+.interrupt {
+    position: absolute;
+    top: 900px;
+    left: 735px;
+}
+
 
