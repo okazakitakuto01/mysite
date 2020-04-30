@@ -32,38 +32,36 @@ button {
     width: 30px;
     position: absolute;
     top: 500px;
-    left: 900px;
+    left: 1850px;
     background-color:snow;
     color: skyblue;
 
 }
 #twitter {
     position: absolute;
-    top: 900px;
-    left: 900px; 
+    top: 920px;
+    left: 1850px; 
 }
 #instagram {
     position: absolute;
-    top: 900px;
-    left: 870px;
+    top: 920px;
+    left: 1820px;
+    text-align: right;
 
 }
 .contact {
-    position: absolute;
+    /* position: absolute; */
     top: 900px;
-    left: 750px;
+    left: 1700px;
+    max-width: 100%;
+    height: auto;
+    text-align: right;
     
 }
 .download {
-    position: absolute;
+    /* position: absolute; */
     top: 900px;
-    left: 630px;
+    left: 1560px;
+    text-align: right;
     
 }
-.interrupt {
-    position: absolute;
-    top: 900px;
-    left: 735px;
-}
-
-
